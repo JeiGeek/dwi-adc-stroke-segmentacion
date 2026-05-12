@@ -1,4 +1,4 @@
-# Project Title
+# Segmentación de Lesiones Isquémicas mediante DWI y ADC
 
 Breve descripción del proyecto.
 
