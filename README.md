@@ -1,4 +1,6 @@
-# Segmentación de Lesiones Isquémicas mediante DWI y ADC
+# 🧠 Segmentación de Lesiones Isquémicas mediante DWI y ADC 🧠
+
+![Portada/Banner Placeholder](https://github.com/JeiGeek/dwi-adc-stroke-segmentacion/blob/main/src/banner.jpg)
 
 Integrantes:
 - Jeison Fernando Guarguati Anaya
