@@ -65,6 +65,8 @@ Organización de datos:
 
 ---
 
+# Metodología
+
 ## Preprocessing
 
 Se aplicaron las siguientes etapas de preprocesamiento:
@@ -83,9 +85,6 @@ Shape de entrada:
 ```python
 (128, 128, 2)
 ```
----
-
-# Metodología
 
 ## Representación de la entrada
 
