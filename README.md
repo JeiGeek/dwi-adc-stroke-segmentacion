@@ -1,6 +1,13 @@
 # Segmentación de Lesiones Isquémicas mediante DWI y ADC
 
-Breve descripción del proyecto.
+Integrantes:
+- Jeison Fernando Guarguati Anaya
+- Alejandro
+- Julian
+
+---
+
+# Descripción del proyecto.
 
 ---
 
